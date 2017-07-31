@@ -13,7 +13,6 @@ class App extends Component {
         <div className="col-md-6">
             <h1>Filter By Language</h1>
             <hr/>
-            <hr/>
             <Filter/>
         </div>
         <div className="col-md-6">
